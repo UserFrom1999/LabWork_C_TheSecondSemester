@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhenya/Projects/Task5.1.7/Input.h
+stdio.h
+-
+
+/home/zhenya/Projects/Task5.1.7/main.c
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+math.h
+-
+string.h
+-
+Input.h
+/home/zhenya/Projects/Task5.1.7/Input.h
+
