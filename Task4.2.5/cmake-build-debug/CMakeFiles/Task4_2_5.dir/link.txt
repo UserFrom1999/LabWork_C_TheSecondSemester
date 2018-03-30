@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Task4_2_5.dir/main.c.o  -o Task4_2_5 
